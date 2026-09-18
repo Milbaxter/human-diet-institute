@@ -1,22 +1,19 @@
 # Human Diet Institute
 
-An independent research project asking what people should eat to feel and function well over a lifetime.
+**Ambition: produce evidence strong enough to change dietary practice.** Discover which diets improve human health, for whom, why, and with what long-term tradeoffs.
 
-**Starting hypothesis:** a carnivore diet can improve health. Our job is to discover for whom, compared with what, through which mechanisms, and at what cost.
+Our starting hypothesis is that carnivore can deliver substantial benefits. We will test its strongest version against credible alternatives and actively look for results that overturn it.
 
-“Good” must become a specific outcome: symptoms, satiety, physical performance, metabolic health, or long-term disease risk. Improvements in one do not establish the others.
+The central question: **does excluding plants add benefits beyond removing ultra-processed food, increasing protein, entering ketosis, or losing weight?**
 
-## First milestone
+## What would count as progress?
 
-One narrow finding another person can reproduce. Start with a reproducible nutrient audit, then consider a supervised personal experiment. A menu calculation cannot establish clinical benefit; a personal result cannot establish the optimal human diet.
+A replicated causal finding that changes a dietary decision: a genuine advantage, a specific responder group, a narrower food exclusion that preserves the benefit, or a consequential harm. Feeling better and being healthier over decades are separate claims.
 
-## How we work
+[Research agenda](EXPERIMENTS.md): three studies, from a focused entry point to a definitive program.
 
-1. Choose one question from [Experiments](EXPERIMENTS.md).
-2. Complete a [Research record](RECORD.md) and commit the plan before collecting data.
-3. Run it, preserve deviations and failures, and examine the strongest alternative explanation.
-4. Share the method and permitted data; seek independent reproduction before strengthening the claim.
+## Work in the open
 
-Preserve null and adverse results. Keep identifiable health data outside Git. Tools may assist with research and analysis; a person verifies sources and owns conclusions.
+Preregister the question and analysis using the [research record](RECORD.md). Publish protocols, code, permitted data, failures and adverse results. Invite skeptics to help design the test and independent teams to replicate it. Keep identifiable health data outside Git.
 
-**Status:** proposals only; no experiments run and no findings yet.
+**First milestone:** one independently reproduced finding that distinguishes competing explanations. **Status:** proposed research; no findings yet.
