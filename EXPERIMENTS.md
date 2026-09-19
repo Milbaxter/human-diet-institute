@@ -20,7 +20,7 @@ These are proposed study designs. Sample sizes must follow the smallest effect t
 
 **Belief changed:** reliably tolerated foods would challenge the necessity of total plant exclusion for those responders. Repeatable food-specific reactions could support a more precise diet. This selected sample cannot establish how often carnivore helps the general population.
 
-**Start here:** recruit a gastroenterology/dietetics collaborator and preregister one challenge with a blinded comparator where practical. Pilot logistics, then run a properly sized study and independent replication. Menu audits support preparation; they are not the institute's scientific destination.
+**Start here:** develop one comparison using the steps below. Menu audits support preparation; they are not the institute's scientific destination.
 
 ## 3. Do benefits survive ordinary life, and what are the costs?
 
@@ -30,10 +30,17 @@ These are proposed study designs. Sample sizes must follow the smallest effect t
 
 **Belief changed:** durable benefit, acceptable burden and the safety profile would inform whether larger trials are justified. Biomarkers cannot settle lifetime cardiovascular or cancer risk; those claims require much larger, longer studies. Observational follow-up remains vulnerable to confounding.
 
-## Build on existing work
+## First project: from question to test
 
-- [Carnivore survey, 2021](https://pubmed.ncbi.nlm.nih.gov/34934897/): a source of hypotheses; self-selection prevents causal inference.
-- [Keto-Med trial, 2022](https://pubmed.ncbi.nlm.nih.gov/35641199/): metabolic and lipid outcomes can move differently; ketogenic is not synonymous with carnivore.
-- [Registered carnivore/ketogenic trial](https://clinicaltrials.gov/study/NCT07524244): already addresses inflammatory bowel disease and rheumatoid arthritis. Our proposed contribution emphasizes controlled feeding and reproducible reintroduction. Check publications and registries again before committing resources.
+**Current stage: evidence and design.** Study 2 is the entry point; studies 1 and 3 remain the larger program.
+
+1. **Establish the gap.** Extend the [evidence map](EVIDENCE.md) to find existing controlled reintroductions and decide what a new study would add.
+2. **Choose one informative comparison.** With a gastroenterology/dietetics collaborator, select one plant food, preparation and dose against a matched, tolerated comparator. Keep the background diet stable. Specify which differences remain unavoidable.
+3. **Try to break the design.** Have a skeptical researcher examine expectations, symptom fluctuation and effects persisting between periods. Simulate repeated observations and dropouts to check that the analysis can distinguish a worthwhile effect from noise; simulated results are not health evidence.
+4. **Prepare for a real test.** Agree on a meaningful symptom threshold, sample size and safety plan. Pilot feasibility under appropriate review, then preregister the confirmatory plan before collecting fresh confirmation data.
+
+**Deliverable:** one short protocol, a reproducible analysis demonstration, and a critique with responses. Proceed when the comparison is informative, feasible and clinically supportable; otherwise revise or stop and record why.
+
+**What would change our mind?** Repeated tolerance within a prespecified acceptable symptom margin would weaken the need to exclude that food for those people. Repeated worsening would support investigating a narrower trigger. An imprecise result settles neither; no result here establishes lifetime safety or the optimal diet for everyone.
 
 All human studies require appropriate ethics review, consent, clinical oversight and prespecified stopping rules. Publish negative results with the same care as positive ones.
